@@ -1,0 +1,10 @@
+pandas
+numpy
+numpy_financial
+seaborn
+plotly
+colormaps
+itables
+matplotlib
+kaleido
+nbformat

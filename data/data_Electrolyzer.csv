@@ -1,0 +1,4 @@
+Year,IEA_minimum,IEA_average,IEA_high,Lifetime_hours,Efficiency
+2023,500,950,1400,60000,0.65
+2030,400,625,850,90000,0.68
+2050,200,450,700,120000,0.75

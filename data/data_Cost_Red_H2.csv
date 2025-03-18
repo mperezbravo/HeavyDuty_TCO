@@ -1,0 +1,16 @@
+Component,Year,Cost
+Precooling_Unit,2023,1
+Precooling_Unit,2030,0.61
+Precooling_Unit,2037,0.55
+Comp_cost,2023,1
+Comp_cost,2030,0.47
+Comp_cost,2037,0.4
+High_st_cost,2023,1
+High_st_cost,2030,0.61
+High_st_cost,2037,0.55
+Low_st_cost,2023,1
+Low_st_cost,2030,0.79
+Low_st_cost,2037,0.75
+Disp_cost,2023,1
+Disp_cost,2030,0.47
+Disp_cost,2037,0.4

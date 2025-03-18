@@ -1,0 +1,89 @@
+Component,Scenario,Year,Price
+Energy battery,ICCT_Central,2020,221.00
+Power battery,ICCT_Central,2020,382.00
+Fuel cell stack,ICCT_Central,2020,793.00
+H2_storage,ICCT_Central,2020,900.00
+Electric drive,ICCT_Central,2020,58.00
+Power electronics,ICCT_Central,2020,25.00
+Energy battery,ICCT_Central,2030,118.00
+Energy battery,ICCT_Central,2040,95.00
+Energy battery,ICCT_Central,2050,95.00
+Power battery,ICCT_Central,2030,232.00
+Power battery,ICCT_Central,2040,186.00
+Power battery,ICCT_Central,2050,186.00
+Fuel cell stack,ICCT_Central,2030,289.00
+Fuel cell stack,ICCT_Central,2040,232.00
+Fuel cell stack,ICCT_Central,2050,232.00
+H2_storage,ICCT_Central,2030,525.00
+H2_storage,ICCT_Central,2040,450.00
+H2_storage,ICCT_Central,2050,450.00
+Electric drive,ICCT_Central,2030,22.00
+Electric drive,ICCT_Central,2040,17.00
+Electric drive,ICCT_Central,2050,17.00
+Power electronics,ICCT_Central,2030,25.00
+Power electronics,ICCT_Central,2040,25.00
+Power electronics,ICCT_Central,2050,25.00
+Energy battery,Near market,2020,275.00
+Energy battery,Scientific,2020,310.00
+Energy battery,Others,2020,316.00
+Energy battery,All,2020,300.00
+Fuel cell stack,Near market,2020,538.00
+Fuel cell stack,Scientific,2020,219.00
+Fuel cell stack,Others,2020,415.00
+Fuel cell stack,All,2020,392.00
+Electric drive,All,2020,42.00
+Power electronics,All,2020,48.00
+H2_storage,All,2020,799.20
+Energy battery,Near market,2030,141.00
+Energy battery,Scientific,2030,178.00
+Energy battery,Others,2030,193.00
+Energy battery,All,2030,174.00
+Fuel cell stack,Near market,2030,216.00
+Fuel cell stack,Scientific,2030,132.00
+Fuel cell stack,Others,2030,219.00
+Fuel cell stack,All,2030,204.00
+Electric drive,All,2030,35.00
+Power electronics,All,2030,48.00
+H2_storage,All,2030,532.80
+Energy battery,Near market,2040,94.00
+Energy battery,Scientific,2040,127.00
+Energy battery,Others,2040,143.00
+Energy battery,All,2040,126.00
+Fuel cell stack,Near market,2040,125.00
+Fuel cell stack,Scientific,2040,97.00
+Fuel cell stack,Others,2040,149.00
+Fuel cell stack,All,2040,138.00
+Electric drive,All,2040,32.00
+Power electronics,All,2040,49.00
+H2_storage,All,2040,432.90
+Energy battery,Near market,2050,70.00
+Energy battery,Scientific,2050,100.00
+Energy battery,Others,2050,116.00
+Energy battery,All,2050,99.00
+Fuel cell stack,Near market,2050,84.00
+Fuel cell stack,Scientific,2050,78.00
+Fuel cell stack,Others,2050,113.00
+Fuel cell stack,All,2050,104.00
+Electric drive,All,2050,29.00
+Power electronics,All,2050,49.00
+H2_storage,All,2050,366.30
+Power Battery,ICCT_Central,2020,221.00
+Power Battery,ICCT_Central,2030,118.00
+Power Battery,ICCT_Central,2040,95.00
+Power Battery,ICCT_Central,2050,95.00
+Power Battery,Near market,2020,495.00
+Power Battery,Scientific,2020,558.00
+Power Battery,Others,2020,568.80
+Power Battery,All,2020,540.00
+Power Battery,Near market,2030,253.80
+Power Battery,Scientific,2030,320.40
+Power Battery,Others,2030,347.40
+Power Battery,All,2030,313.20
+Power Battery,Near market,2040,169.20
+Power Battery,Scientific,2040,228.60
+Power Battery,Others,2040,257.40
+Power Battery,All,2040,226.80
+Power Battery,Near market,2050,126.00
+Power Battery,Scientific,2050,180.00
+Power Battery,Others,2050,208.80
+Power Battery,All,2050,178.20

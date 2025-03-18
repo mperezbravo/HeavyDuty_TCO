@@ -1,0 +1,14 @@
+Feature,Value
+P_inlet,30
+P_output,400
+Compressor_eff,0.7
+Electric_eff,0.85
+Tin,40
+MH2,0.002015
+Lifetime,20
+Cost reduction,0
+Linger_minutes,2
+Security_Factor,1.2
+Cooling_consump,0.18
+Minimum_bar,10
+Low_Pressure_Storage,400
