@@ -3,8 +3,8 @@
 This repository contains the code and data for the research paper titled *"Economies of Scale Matter: How Refueling Infrastructure Policy Affects the Viability of Alternative Fuel Trucks"*. The study investigates the economic feasibility of alternative fuel trucks, focusing on battery-electric trucks (BET) and fuel cell electric trucks (FCET), and how economies of scale in infrastructure and fleet size impact their Total Cost of Ownership (TCO) from 2025 to 2040.
 
 ## 📄 Authors
-- Manuel Pérez-Bravo (mperezb@comillas.edu)  
-- Santiago Serna  
+- Manuel Pérez-Bravo (mperezb@comillas.edu, [@mperezbravo](https://github.com/mperezbravo)) 
+- Santiago Serna  ([@ssernaz721](https://github.com/ssernaz721))
 - Rafael Cossent  
 - Pedro Linares  
 
